@@ -1,7 +1,5 @@
 # Next.js + Express
 
-> Next.js project using Spotify API ([See demo](https://next-express-klelutfcnm.now.sh/)).
-
 ## Build Setup
 
 ``` bash
